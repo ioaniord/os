@@ -1,0 +1,34 @@
+/home/ioaniord/Lab05
+log
+  File: mew_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 302992      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1218/ioaniord)   Gid: ( 1220/ioaniord)
+Access: 2024-12-16 11:27:27.496832795 +0200
+Modify: 2024-12-16 11:27:27.496832795 +0200
+Change: 2024-12-16 11:27:27.496832795 +0200
+ Birth: -
+  File: test1
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 303670      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1218/ioaniord)   Gid: ( 1220/ioaniord)
+Access: 2024-12-16 12:20:29.599488988 +0200
+Modify: 2024-12-16 12:20:29.599488988 +0200
+Change: 2024-12-16 12:20:29.599488988 +0200
+ Birth: -
+Please ask your administrator.
+./example2.c
+./example4.c
+./example5.c
+./example3.c
+./example1.c
+./example6.c
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11
+Invalid SSH identification string.
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11
+Invalid SSH identification string.
+"aaaa"
+This is a test for Lab05!
+This is a test for Lab05!
+This is a test for Lab05!
+This is a test for Lab05!
